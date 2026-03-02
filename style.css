@@ -20,5 +20,9 @@ display: flex;
 }
 .red{
     background-color: rgb(255, 98, 98);
-    padding-right: 190px;
+    padding-bottom: 190px;
+}
+.green{
+    background-color: green;
+    padding-bottom: 80px;
 }
