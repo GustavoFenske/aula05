@@ -1,38 +1,35 @@
 .purple{
-    background-color: purple;
-    display: flex;
+    background-color: rgb(189, 118, 255);
     justify-content: center;
-    padding: 20px;
+    display: flex;
+    padding: 30px;
 }
 .blue{
-    background-color: blue;
+    background-color: rgb(0, 140, 255);
     padding: 20px;
-    margin: 20px;
+    margin: 30px;
 }
 .yo{
-padding: 50px;
-margin: 20px;
-background-color: rgb(255, 255, 119);
-
-}
-.flex{
-display: flex;
-justify-content: space-between;
-align-items: flex-start;
-}
-.red{
-    background-color: rgb(255, 98, 98);
-    padding-bottom: 290px;
-    gap: 290px;
-    
-}
-.green{
-    background-color: green;
-    padding: 100px;
+    background-color: yellow;
+    padding: 20px;
+    margin: 10px;
 }
 
-.grey{
-    background-color: grey;
-    padding-bottom: 170px;
+.lado{
+    background-color: yellow;
+    padding-right:80px;
+    margin:10px;
+}
+.baixo{
+    padding-bottom: 80px;
+}
+.baixo07{
+    padding-bottom: 90px;
+}
+.margin0{
     margin-top: 20px;
 }
+
+.flex{
+    display: flex;
+} 
