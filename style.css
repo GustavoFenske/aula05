@@ -22,13 +22,13 @@ align-items: flex-start;
 }
 .red{
     background-color: rgb(255, 98, 98);
-    padding-bottom: 160px;
+    padding-bottom: 290px;
     gap: 290px;
     
 }
 .green{
     background-color: green;
-    padding-bottom: 280px;
+    padding: 100px;
 }
 
 .grey{
